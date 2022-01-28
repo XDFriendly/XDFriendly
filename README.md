@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @XDFriendly
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning How to use git hub
+- 💞️ I’m looking to collaborate on making a OS
